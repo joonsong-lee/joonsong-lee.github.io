@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Joonsong lee's site"
+title                    : "Joonsong lee's homepage"
 title_separator          : "-"
 name                     : &name "Joonsong lee"
 description              : &description "Joonsong lee is master's student at UNIST(Ulsan National Institute of Science and Technology)."   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Joonsong Lee"
   pronouns         : "he"
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "M.S @ UNIST"
   location         : "Ulsan, South Korea"
-  employer         : "UNIST(Ulsan National Institute of Science and Technology)"
+  employer         : "UNIST"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ljsong7@unist.ac.kr" 
 
   # Academic websites
   academia         : # URL
